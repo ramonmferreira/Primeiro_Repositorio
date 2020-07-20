@@ -1,2 +1,3 @@
 # Primeiro_Repositorio
- TEstando o funcionamento de versionamento
+ Testando o funcionamento de versionamento
+ Verificando modificações
