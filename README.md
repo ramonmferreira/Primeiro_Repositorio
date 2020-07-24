@@ -22,3 +22,10 @@
  Madalena|16
 
 Você sabe para que serve o comando `print()` em linguagem __Python__ ?
+
+Também funciona com ``` :
+
+```
+if x>10 :
+ print('Olá mundo!')
+```
